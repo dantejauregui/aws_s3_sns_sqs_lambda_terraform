@@ -17,7 +17,7 @@ __pycache__/
 venv/
 .env
 .envrc
-#package_to_zip/
+package_to_zip/
 .DS_Store
 
 # Lambda Deployment Package
